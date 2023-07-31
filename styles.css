@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.holder{
+  
+	display: flex; 
+	flex-direction: row;
+ 	flex-wrap: wrap;
+	justify-content: center;
+	
+}
+.div1{
+	heigth: 100px;
+	width:100px;
+	background-color:green;
+	font-size: 20px;
+}
+.div2{
+	heigth: 100px;
+	width:100px;
+	background-color:red;
+	font-size: 20px;
+}
+.div3{
+	heigth: 100px;
+	width:100px;
+	background-color: blue;
+	font-size: 20px;
+}
